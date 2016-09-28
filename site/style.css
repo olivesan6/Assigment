@@ -23,7 +23,17 @@ padding-left: 10px;
 padding-bottom: 10px;
 }
 
+#p1 {
+background-color: #669999;
+}
 
+#p2 {
+  background-color: #99FF33;
+}
+
+#p3 {
+  background-color: #FFFF66;
+}
 
 span {
 
@@ -40,6 +50,20 @@ span {
   float: right;
   position: relative;
   box-sizing: 100px;
+}
+
+ 
+#s1 {
+  background-color: #0033CC;
+}
+
+#s2 {
+  background-color: #00CC00;
+}
+
+#s3 {
+  background-color: #FF9900;
+
  
 /* Simple Responsive Framework. */
 
@@ -101,25 +125,3 @@ span {
  
 }
 
-#p1 {
-background-color: #669999;
-}
-
-#p2 {
-  background-color: #99FF33;
-}
-
-#p3 {
-  background-color: #FFFF66;
-}
-#s1 {
-  background-color: #0033CC;
-}
-
-#s2 {
-  background-color: #00CC00;
-}
-
-#s3 {
-  background-color: #FF9900;
-}
